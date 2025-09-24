@@ -4,3 +4,4 @@ with +:reafs/heads/branch1 setting
 checking branch1 for buildconfig
 checking +:reafs/heads/branch1 for buildconfig
 change in branch1 to check revision from secondary repo - fixed filter
+add chenge for Main root
